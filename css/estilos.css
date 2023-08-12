@@ -20,7 +20,7 @@ header{
     align-items: center;
     border:1px solid orange
 }
-.display-contenedor{
+input{
     width:270px ;
     height: 60px;
     display: flex;
